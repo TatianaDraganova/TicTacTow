@@ -1,0 +1,9 @@
+D:\TDr\TicTacTow\bin\Debug\TicTacTow.exe.config
+D:\TDr\TicTacTow\bin\Debug\TicTacTow.exe
+D:\TDr\TicTacTow\bin\Debug\TicTacTow.pdb
+D:\TDr\TicTacTow\obj\Debug\TicTacTow.Form1.resources
+D:\TDr\TicTacTow\obj\Debug\TicTacTow.Properties.Resources.resources
+D:\TDr\TicTacTow\obj\Debug\TicTacTow.csproj.GenerateResource.Cache
+D:\TDr\TicTacTow\obj\Debug\TicTacTow.exe
+D:\TDr\TicTacTow\obj\Debug\TicTacTow.pdb
+D:\TDr\TicTacTow\obj\Debug\TicTacTow.csprojResolveAssemblyReference.cache
